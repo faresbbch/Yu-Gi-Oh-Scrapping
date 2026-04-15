@@ -15,7 +15,7 @@ This repository contains a dataset of all existing Yu-Gi-Oh! cards extracted fro
 - **`images_file/`** contains `.jpg` images for each Yu-Gi-Oh! card.  
   File names follow the format: `card_identifier.jpg`.
   
-The card image folder is not included in this repository because it exceeds GitHub’s recommended file size limits and would make the repository too heavy to store and clone efficiently. The complete image dataset is available on Kaggle: [insert Kaggle link here]
+The card image folder is not included in this repository because it exceeds GitHub’s recommended file size limits and would make the repository too heavy to store and clone efficiently. The complete image dataset is available on Kaggle: [https://www.kaggle.com/datasets/faresbbch/all-yu-gi-oh-cards]
 
 
 ## Data Dictionary:
